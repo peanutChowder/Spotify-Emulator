@@ -1,6 +1,9 @@
 # Spotify Emulator
 
-Emulate Spotify sessions with this program. The primary function of this program is to deal with SQL queries.
+Emulate Spotify sessions with this program. The primary function of this program is to deal with SQL queries, integrated with Python.
+
+The program is run as:
+`mini_project_1.py <database.db>` where 'database.db' is a local sqlite database file. This database file should contain tables on user, song, playlist information, etc. A sample .db file is provided.
 
 ---
 
